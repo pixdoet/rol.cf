@@ -1,0 +1,3 @@
+<?php
+// must replace all legacy code written in 2021.........
+$conn = new mysqli("localhost","root","root","testrants");

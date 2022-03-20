@@ -1,0 +1,40 @@
+.oz .plus-features {
+    margin-top: 2em;
+}
+
+.oz .plus-features li {
+    background: url(../images/login-sprite.png) no-repeat top left;
+    float: left;
+    height: 64px;
+    margin-bottom: 2em;
+    padding-left: 80px;
+    width: 125px;
+}
+
+.oz .plus-features li h3 {
+    margin-top: 1em;
+}
+
+.oz .plus-features li.circles {
+    background-position: left -130px;
+}
+
+.oz .plus-features li.games {
+    background-position: left -260px;
+}
+
+.oz .plus-features li.stream {
+    background-position: left -195px;
+}
+
+.oz .plus-features li.hangouts {
+    background-position: left -325px;
+}
+
+.oz .plus-features li.photo {
+    background-position: left 0;
+}
+
+.oz .plus-features li.events {
+    background-position: left -65px;
+}

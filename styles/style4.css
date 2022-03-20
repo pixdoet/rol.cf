@@ -1,0 +1,86 @@
+.main {
+    width: auto;
+    max-width: 1000px;
+    min-width: 780px;
+}
+
+.product-info {
+    margin: 0 385px 0 0;
+}
+
+.product-info h3 {
+    font-size: 1.23em;
+    font-weight: normal;
+}
+
+.product-info a:visited {
+    color: #61c;
+}
+
+.product-info .g-button:visited {
+    color: #666;
+}
+
+.sign-in {
+    width: 335px;
+    float: right;
+}
+
+.signin-box,
+.accountchooser-box {
+    margin: 12px 0 0;
+    padding: 20px 25px 15px;
+    background: #f1f1f1;
+    border: 1px solid #e5e5e5;
+}
+
+.product-headers {
+    margin: 0 0 1.5em;
+}
+
+.product-headers h1 {
+    font-size: 25px;
+    margin: 0 !important;
+}
+
+.product-headers h2 {
+    font-size: 16px;
+    margin: .4em 0 0;
+}
+
+.features {
+    overflow: hidden;
+    margin: 2em 0 0;
+}
+
+.features li {
+    margin: 3px 0 2em;
+}
+
+.features img {
+    float: left;
+    margin: -3px 0 0;
+}
+
+.features p {
+    margin: 0 0 0 68px;
+}
+
+.features .title {
+    font-size: 16px;
+    margin-bottom: .3em;
+}
+
+.features.no-icon p {
+    margin: 0;
+}
+
+.features .small-title {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.notification-bar {
+    background: #f9edbe;
+    padding: 8px;
+}
